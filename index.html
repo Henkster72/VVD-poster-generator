@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=.9">
+    <title>VVD poster Generator</title>
+    <link rel="stylesheet" type="text/css" href="static/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.vvd.nl/apple-touch-icon.png?v21">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.vvd.nl/favicon-32x32.png?v21">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.vvd.nl/favicon-16x16.png?v21">
+    <link rel="shortcut icon" href="https://www.vvd.nl/favicon.ico?v21">
+</head>
+<body>
+    <h1>VVD poster generator</h1>
+    <div class="quote-container" id="quote-container">
+        <!-- Quote -->
+        <div class="quote-text">
+            <img src="vvdposter.png">
+            <h3 id="quote"></h3>
+        </div>
+        <!-- Author -->
+        <div class="quote-author">
+            <span id="author"></span>
+        </div>
+        <!-- Buttons -->
+        <div class="button-container">
+            <button class="twitter-button" id="twitter" title="Tweet dit!">
+                <li class="fa fa-twitter"></li>
+            </button>
+            <button class="facebook-button" id="facebook" title="Post dit!">
+                <li class="fa fa-facebook"></li>
+            </button>
+            <button id="new-quote">Nieuwe poster</button>
+        </div>
+    </div>
+    <script src="quotescript.js"></script>
+</body>
+</html>
