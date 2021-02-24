@@ -12,7 +12,7 @@ html {
 }
 
 h1{
-  color: var(--blue);
+  color: var(--brightblue);
   left: 0;
   top:0.1em;
   left:.1em;
@@ -44,8 +44,8 @@ body {
   font-weight: 800;
   font-style: bold;
   text-decoration: underline;
-  text-decoration-color: var(--orange);
-  color: var(--blue);
+  text-decoration-color: var(--brightorange);
+  color: var(--brightblue);
   position: absolute;
   left: 0;
   padding: 10px;
@@ -72,7 +72,7 @@ button {
   border: none;
   border-radius: 3px;
   color: #fff;
-  background-color: var(--orange);
+  background-color: var(--brightorange);
   outline: none;
   padding: 0.5rem 1rem 0.5rem 1rem;
   box-shadow: 0 0.2rem 0.1rem var(--blue);
