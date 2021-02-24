@@ -21,7 +21,7 @@ h1{
 }
 body {
   margin: 0;
-  min-height: 90vh;
+  min-height: 89vh;
   background-color: #fff;
   color: var(--orange);
   font-family: Montserrat, sans-serif;
@@ -124,7 +124,10 @@ li{
 
   h1{
     position: absolute;
-    padding: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
   }
     .long-quote {
     margin-top: 35px;
@@ -150,19 +153,21 @@ li{
     padding: 25px;
   }
   .quote-text {
-    font-size: 3rem;
+    font-size: 3.5vh;
+    top: 10%;
   }
 
   .long-quote {
-    font-size: 2.5rem;
+    font-size: 2.8vh;
     top: 100px;
   }
   #quote {
     top: 130px;
   }
   img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    max-height: 1000px;
+    height: 90vh;
   }
   
 }
