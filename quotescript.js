@@ -75,7 +75,7 @@ let apiQuotes = [    {'author': 'Mark Rutte',
     'text': 'Onder Ruttes beleid: schending mensenrechten met invoering ‘Tijdelijke wet beperking vertoeven in de openlucht covid-19’.'
     },
     {'author': 'Mark Rutte',
-    'text': 'VVD corona beleid: staatssteun maar voor 30% van MKB tijdens corona.'
+    'text': 'VVD corona beleid: staatssteun maar voor 30% van het MKB tijdens corona.'
     },
     {'author': 'Mark Rutte',
     'text': 'Onder Ruttes corona beleid: avondklok van tafel door de rechter en met een nieuwe wet komen om de avondklok te continueren.'
