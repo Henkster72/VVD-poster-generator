@@ -118,7 +118,7 @@ li{
   }
 
   .quote-text {
-    font-size: 1.7rem;
+    font-size: 3vh;
   }
 
   h1{
@@ -127,7 +127,7 @@ li{
   }
     .long-quote {
     margin-top: 35px;
-    font-size: 1.5rem;
+    font-size: 2.5vh;
   }
   #quote {
     top: 40px;
