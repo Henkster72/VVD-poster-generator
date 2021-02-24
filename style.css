@@ -41,6 +41,7 @@ body {
 }
 
 #quote {
+  font-style: bold;
   text-decoration: underline;
   text-decoration-color: var(--orange);
   color: var(--blue);
