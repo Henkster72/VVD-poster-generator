@@ -18,7 +18,7 @@ let apiQuotes = [    {'author': 'Mark Rutte',
      'text': 'Instemmen met Wet Openbaarheid Bestuur en vervolgens onder het kopje \"persoonlijke mening\" alles verbergen.'
     },
     {'author': 'Mark Rutte',
-     'text': 'Rutte doctrine: het ene zeggen en het andere doen: kampioen paaien. '
+     'text': 'Rutte doctrine: het ene zeggen (glashard liegen) en het andere doen.  '
     },
     {'author': 'Mark Rutte',
      'text': 'Bezuinigen op de zorg en 1,4 miljard euro weggeven aan grote bedrijven (afschaffen dividend belasting).'
@@ -66,7 +66,7 @@ let apiQuotes = [    {'author': 'Mark Rutte',
     'text': 'Onder Ruttes beleid: geen extra bouw van sociale huurwoningen.'
     },
     {'author': 'Mark Rutte',
-    'text': 'Onder Ruttes beleid: verhoging ziektekosten premie en eigen bijdrage.'
+    'text': 'Onder Ruttes beleid: verhoging zorgverzekeringspremie en eigen bijdrage.'
     },
     {'author': 'Mark Rutte',
     'text': 'VVD corona beleid: varen op PCR testen die niet wetenschappelijk betrouwbaar zijn.'
