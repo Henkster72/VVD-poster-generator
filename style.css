@@ -17,6 +17,7 @@ h1{
   top:0.1em;
   left:.1em;
   font-weight: bold;
+  z-index: 10;
 }
 body {
   margin: 0;
@@ -113,8 +114,8 @@ li{
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px) {
   .quote-container {
-    margin: auto 5px;
-    height: auto;
+    top: 45px;
+    height: 587px;
   }
 
   .quote-text {
@@ -132,11 +133,10 @@ li{
   #quote {
     top: 40px;
   }
-}
-
-img {
-  width: 100%;
-  height: auto;
+  img {
+    width: auto;
+    height: 600px;
+  }
 }
 
 /* Media Query: Tablet or Smaller */
@@ -160,4 +160,9 @@ img {
   #quote {
     top: 130px;
   }
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
 }
