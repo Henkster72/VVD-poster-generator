@@ -84,7 +84,7 @@ let apiQuotes = [    {'author': 'Mark Rutte',
     'text': 'Ruttes campagne: mondvol over "samen" maar verder het beleid van "verdeel en heers" hanteren.'
     },
     {'author': 'Mark Rutte',
-    'text': 'Onder Ruttes beleid: zonder politiek-inhoudelijke drijfveren corporaties belasting voordelen geven en burgers meer belastingen laten betalen.'
+    'text': 'Grote bedrijven belasting voordelen geven en burgers meer belastingen laten betalen.'
     },
     {'author': 'Mark Rutte',
     'text': 'Onder Ruttes beleid: mondvol over "samen" maar verder het beleid en de macht centraliseren.'
