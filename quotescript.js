@@ -51,7 +51,7 @@ let apiQuotes = [    {'author': 'Mark Rutte',
     'text': 'Onder Ruttes beleid: aantal daklozen verdubbeld.'
     },
     {'author': 'Mark Rutte',
-    'text': 'Onder Ruttes beleid: veel geld naar klimaatverandering maar geen visie op klimaatverandering.'
+    'text': 'Onder Ruttes beleid: veel geld naar klimaatverandering maar geen visie erop.'
     },
     {'author': 'Mark Rutte',
     'text': 'Onder Ruttes beleid: Nederland grootste netto betaler aan de EU.'
