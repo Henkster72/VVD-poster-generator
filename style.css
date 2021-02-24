@@ -143,7 +143,7 @@ img {
 @media screen and (min-width: 1000px) {
   .quote-container {
     margin-top: 20px;
-    height: 70vh;
+    height: auto;
   }
   h1{
     position: relative;
@@ -155,8 +155,9 @@ img {
 
   .long-quote {
     font-size: 2.5rem;
+    top: 100px;
   }
   #quote {
-    top: 200px;
+    top: 130px;
   }
 }
