@@ -41,6 +41,9 @@ body {
 }
 
 #quote {
+  text-decoration: underline;
+  text-decoration-color: var(--orange);
+  color: var(--blue);
   position: absolute;
   left: 0;
   padding: 10px;
