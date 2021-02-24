@@ -94,7 +94,10 @@ button:active {
 .facebook-button:hover {
   color: #3b5998;
 }
-
+.new-quote {
+  background-color: var(--blue);
+  box-shadow: 0 0.2rem 0.1rem var(--orange);
+}
 .fa-twitter {
   font-size: 1.1rem;
 }
