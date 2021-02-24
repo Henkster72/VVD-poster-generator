@@ -12,7 +12,7 @@ let apiQuotes = [    {'author': 'Mark Rutte',
      'text': 'De middenklasse vernietigen en claimen liberaal te zijn.'
     },
     {'author': 'Mark Rutte',
-     'text': 'Mensen in de vernieling helpen met de toeslagenaffaire en rustig doorregeren.'
+     'text': 'Mensen in de vernieling helpen met de toeslagenaffaire en rustig door regeren.'
     },
     {'author': 'Mark Rutte',
      'text': 'Instemmen met Wet Openbaarheid Bestuur en vervolgens onder het kopje \"persoonlijke mening\" alles verbergen.'
